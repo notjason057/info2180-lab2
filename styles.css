@@ -92,14 +92,29 @@ aside {
     background-color: #ffffff;
     padding: 15px;
     border-radius: 8px;
+    color: #4299E1;
 }
 
 /* ===== Footer ===== */
 footer {
     grid-column: 1 / 3;   /* spans both columns */
     grid-row: 3;
-    background-color: #2d3748;
-    color: #fff;
+    background-color: #2C5282;
+    color: #FFFFFF;
     text-align: center;
     padding: 15px;
 }
+
+.about-heading{
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.social-heading, .archives-heading{
+    color: #48BB78;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
