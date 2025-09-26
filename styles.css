@@ -73,7 +73,7 @@ main {
 aside {
     grid-column: 2;   /* right column */
     grid-row: 2;
-    background-color: #e2e8f0;
+    background-color: #ffffff;
     padding: 20px;
     display: flex;
     flex-direction: column;   /* stack sidebar sections vertically */
