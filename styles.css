@@ -10,15 +10,18 @@
 
 /* ===== Header ===== */
 header {
+    grid-column: 1 / 3;   /* span across both columns */
     display: flex;
-    flex-direction: column;    /* Stack image, h1, p vertically */
+    flex-direction: column;    
     justify-content: center;
     align-items: center;
     background-color: #63B3ED;
     color: #FFFFFF;
     padding: 40px 20px;
     text-align: center;
+    width: 100%;  /* ensures full stretch */
 }
+
 
 body{
     background-attachment: pink;
