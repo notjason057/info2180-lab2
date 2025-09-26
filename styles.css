@@ -81,7 +81,14 @@ aside {
 }
 
 /* Sidebar Sections */
-.about, .social_media, .archives {
+
+.about{
+    background-color: #e2e8f0;  
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.social_media, .archives {
     background-color: #ffffff;
     padding: 15px;
     border-radius: 8px;
