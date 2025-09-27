@@ -100,7 +100,7 @@ footer {
     grid-row: 3;
     background-color: #2C5282;
     color: #FFFFFF;
-    text-align: center;
+    text-align: left;
     padding: 15px;
 }
 
@@ -147,7 +147,7 @@ ul {
     margin: 0 20px 20px 0;     
     object-fit: cover; 
  }
- 
+
  a {
     color: #4299E1;
     text-decoration: none; /* optional, removes underline */
