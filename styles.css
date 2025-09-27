@@ -64,7 +64,7 @@ p {
 main {
     grid-column: 1;   /* left column */
     grid-row: 2;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
     padding: 20px;
 }
 
@@ -147,3 +147,8 @@ ul {
     margin: 0 20px 20px 0;     
     object-fit: cover; 
  }
+ 
+ a {
+    color: #4299E1;
+    text-decoration: none; /* optional, removes underline */
+  }
